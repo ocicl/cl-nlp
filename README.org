@@ -1,0 +1,9 @@
+* cl-nlp
+
+Common Lisp NLP toolset
+
+|---------+---------------------------------------------------------|
+| source  | git:https://github.com/vseloved/cl-nlp.git              |
+| commit  | f180b6c                                                 |
+| systems | cl-nlp cl-nltk cl-nlp-contrib cl-nlp-api coursera-nlang |
+|---------+---------------------------------------------------------|
